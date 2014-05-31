@@ -1,0 +1,9 @@
+.DS_Store
+
+Podfile.lock
+
+/FartCodeTests
+/Pods
+/webserver
+
+/Fart Code.xcworkspace
